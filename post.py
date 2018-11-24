@@ -1,14 +1,18 @@
-class Post:
+class Post(object):
     def __init__(self, title, description):
         self.title = title
         self.description = description
-        self.votes = 0
+        self._votes = 0
+
+    @property
+    def votes(self):
+        return self._votes
     
     def upVote(self):
-        self.votes += 1
+        self._votes += 1
 
     def downVote(self):
-        self.votes -= 1
+        self._votes -= 1
 
 post = Post(title="Title", description="Description")
 
