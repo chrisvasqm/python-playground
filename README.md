@@ -16,3 +16,4 @@ You can find all the code samples inside the `exercises/` folder.
 | Stack | ToDo |
 | Inheritance | ToDo |
 | Polymorphism | ToDo |
+| Custom Exceptions | ToDo |
