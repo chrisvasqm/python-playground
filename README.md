@@ -4,6 +4,8 @@ Sample code and exercises to practice how to use Python.
 
 ## List of Exercises
 
+You can find all the code samples inside the `exercises/` folder.
+
 | Exercise      | Status |
 | ------------- | -----:|
 | [FizzBuzz](https://github.com/chrisvasqm/python-playground/blob/master/exercises/fizzbuzz.py)      | Done |
