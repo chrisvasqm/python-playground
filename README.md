@@ -13,4 +13,4 @@ Sample code and exercises to practice how to use Python.
 | Stopwatch | ToDo |
 | Stack | ToDo |
 | Inheritance | ToDo |
-| Polimorfism | ToDo |
+| Polymorphism | ToDo |
