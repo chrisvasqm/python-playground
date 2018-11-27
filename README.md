@@ -13,7 +13,7 @@ You can find all the code samples inside the `exercises/` folder.
 | [Higher-Order Functions](https://github.com/chrisvasqm/python-playground/blob/master/exercises/higher_order_function.py) | Done |
 | [Sorting lists](https://github.com/chrisvasqm/python-playground/blob/master/exercises/lists.py) | Done |
 | [Stopwatch](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stopwatch.py) | Done |
-| Stack | ToDo |
+| [Stack](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stack.py) | Done |
 | Inheritance | ToDo |
 | Polymorphism | ToDo |
 | Custom Exceptions | ToDo |
