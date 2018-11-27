@@ -1,3 +1,10 @@
+# Design a class that represents a StackOverflow Post
+# It should take two parameters via it's constructor
+# a title and a description.
+# And make sure to provide a public API that will allow
+# the consumer of this class to increase and decrease the votes
+# count number without overriding the total votes count directly.
+
 class Post(object):
 
     def __init__(self, title, description):

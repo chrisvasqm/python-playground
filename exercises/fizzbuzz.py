@@ -1,3 +1,9 @@
+# Count the numbers from 1 to 30,
+# when the current number is divisible by 3, print "Fizz"
+# when the current number is divisible by 5, print "Buzz"
+# and when the current number is divisible by both 3 and 5, print "FizzBuzz"
+# otherwise, print the number as is.
+
 def main():
     for number in range(1, 31):
         if isFizzBuzz(number):
