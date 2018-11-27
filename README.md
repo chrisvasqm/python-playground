@@ -11,7 +11,7 @@ You can find all the code samples inside the `exercises/` folder.
 | [FizzBuzz](https://github.com/chrisvasqm/python-playground/blob/master/exercises/fizzbuzz.py)      | Done |
 | [Post](https://github.com/chrisvasqm/python-playground/blob/master/exercises/post.py)      | Done |
 | [Higher-Order Functions](https://github.com/chrisvasqm/python-playground/blob/master/exercises/higher_order_function.py) | Done |
-| Sorting lists | ToDo |
+| [Sorting lists](https://github.com/chrisvasqm/python-playground/blob/master/exercises/lists.py) | Done |
 | Stopwatch | ToDo |
 | Stack | ToDo |
 | Inheritance | ToDo |
