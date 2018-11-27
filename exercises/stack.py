@@ -21,6 +21,9 @@ def main():
     # Remove last item
     print(stack.pop())
 
+    # Display remaining items
+    print(stack.items)
+
     # Clear all items
     stack.clear()
 
