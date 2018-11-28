@@ -17,3 +17,4 @@ You can find all the code samples inside the `exercises/` folder.
 | [Inheritance](https://github.com/chrisvasqm/python-playground/blob/master/exercises/inheritance.py) | Done |
 | [Polymorphism](https://github.com/chrisvasqm/python-playground/blob/master/exercises/polymorfism.py) | Done |
 | [Custom Exceptions](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stopwatch.py) | Done |
+| Static methods | Done |
