@@ -14,6 +14,6 @@ You can find all the code samples inside the `exercises/` folder.
 | [Sorting lists](https://github.com/chrisvasqm/python-playground/blob/master/exercises/lists.py) | Done |
 | [Stopwatch](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stopwatch.py) | Done |
 | [Stack](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stack.py) | Done |
-| Inheritance | ToDo |
+| [Inheritance](https://github.com/chrisvasqm/python-playground/blob/master/exercises/inheritance.py) | Done |
 | Polymorphism | ToDo |
 | [Custom Exceptions](https://github.com/chrisvasqm/python-playground/blob/master/exercises/stopwatch.py) | Done |
