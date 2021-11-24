@@ -5,7 +5,7 @@
 # otherwise, print the number as is.
 
 def main():
-    for number in range(1, 31):
+    for number in range(1, 16):
         if isFizzBuzz(number):
             print("FizzBuzz")
         elif isFizz(number):
@@ -16,16 +16,16 @@ def main():
             print(number)
 
 
+def isFizzBuzz(number):
+    return number % 15 == 0
+
+
 def isFizz(number):
     return number % 3 == 0
 
 
 def isBuzz(number):
     return number % 5 == 0
-
-
-def isFizzBuzz(number):
-    return number % 15 == 0
 
 
 if __name__ == "__main__":
