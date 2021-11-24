@@ -2,20 +2,23 @@
 
 
 def main():
-    car = Car()
-    plane = Plane()
+    vehicles = [Car(), Plane()]
 
-    for vehicle in (car, plane):
+    for vehicle in vehicles:
         vehicle.drive()
 
 
-class Car():
+class Vehicle(object):
+    def drive(self):
+        pass
+
+class Car(Vehicle):
 
     def drive(self):
         print("Driving a car")
 
 
-class Plane():
+class Plane(Vehicle):
 
     def drive(self):
         print("Driving a plane")
