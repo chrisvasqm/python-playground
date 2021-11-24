@@ -23,14 +23,18 @@ class Post(object):
         self._votes -= 1
 
 
+def printVotes(post):
+    print(f'The {post.title} post has {str(post.votes)} votes')
+
+
 post = Post(title="Title", description="Description")
 
-print(f'The {post.title} post has {str(post.votes)} votes')
+printVotes(post)
 
 post.upVote()
 
-print(f'The {post.title} post has {str(post.votes)} votes')
+printVotes(post)
 
 post.downVote()
 
-print(f'The {post.title} post has {str(post.votes)} votes')
+printVotes(post)
